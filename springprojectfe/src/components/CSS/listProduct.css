@@ -1,0 +1,33 @@
+.temp {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    padding: 50px;
+    margin: 0 -20px;
+    list-style-type: none;
+    padding-bottom: 200px;
+    padding-left: 30px;
+}
+
+.product{
+    border-radius: 10px; 
+    margin: 50px;
+    box-shadow: 0px 5px 5px 10px #b2bec3; 
+}
+
+.product .content{
+    padding-left: 10%;
+}
+
+.thumbnail img {
+    padding: 0 20px;
+    width: 500px;
+    border-radius: 0.5rem ;
+}
+
+.custom-button{
+    margin-left: 30%;
+}
+
+.custom-button Button{
+    margin: 10px;
+}
